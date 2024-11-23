@@ -1,4 +1,4 @@
-# Introdução Infraestrcture as Code (IaC)
+# Introdução Infrastructure as Code (IaC)
 
 Este material contempla os seguintes tópicos:
 
