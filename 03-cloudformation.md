@@ -153,7 +153,9 @@ Comparação entre as ferramentas AWS **Infrastructure Composer**, **IaC Generat
 | **Facilidade de Aprendizado**       | Muito fácil de aprender, não exige conhecimento prévio de programação | Fácil de aprender, ideal para quem já está familiarizado com templates | Mais complexo, exige conhecimento de programação e conceitos de IaC |
 
 
+
 Fonte:
+
 https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/Welcome.html
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/infrastructure-composer-for-cloudformation.html
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/generate-IaC.html
