@@ -22,7 +22,7 @@ E irá realizar as seguintes tarefas:
 
 2.3 Realizar o upload de um arquivo (.txt, .html) com o nome arquivo-<SEUNOME>.txt, por exemplo ``arquivo-flavio.txt`` para dentro deste bucket
 
-# 3. Entrega
+## 3. Entrega
 3.1 A entrega é individual e deverá ser feita via Moodle
 
 3.2 Enviar print da tela onde contém a sua ``Stack`` criada +  Link da tela de detalhes do Bucket contendo o arquivo que foi feito o upload. 
