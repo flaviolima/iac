@@ -25,7 +25,7 @@ E irá realizar as seguintes tarefas:
 ## 3. Entrega
 3.1 A entrega é individual e deverá ser feita via Moodle
 
-3.2 Enviar print da tela onde contém a sua ``Stack`` criada +  Link da tela de detalhes do Bucket contendo o arquivo que foi feito o upload. 
+3.2 Enviar print da tela onde contém a sua ``Stack`` criada +  print da tela de detalhes do Bucket contendo o arquivo que foi feito o upload. 
 
 3.3 Exercício individual
 
