@@ -1,7 +1,6 @@
 Cloudformation 
 =====================
 
-
 **AWS CloudFormation** é um serviço que permite modelar, provisionar e gerenciar recursos da AWS e de terceiros por meio de arquivos de configuração. Esses arquivos são descritos em formato JSON ou YAML, e você pode usar o CloudFormation para automatizar e orquestrar a criação e a gestão de sua infraestrutura de nuvem.
 
 Sua implementação básica está baseada nos conceitos de **`Stacks`** que podem ser agrupadas em **`StackSets`**
@@ -19,6 +18,8 @@ Uma **Stack** no CloudFormation é um conjunto de recursos da AWS que são criad
 Um **StackSet** é uma coleção de Stacks que você pode gerenciar de forma centralizada em várias contas da AWS e regiões. Isso é útil para organizações que precisam replicar a mesma infraestrutura em ambientes diferentes ou em diferentes partes da organização.
 
 No AWS CloudFormation, um **template** é um arquivo de configuração que define a infraestrutura desejada na nuvem. Esse arquivo pode ser escrito nos formatos JSON ou YAML e serve como um plano ou blueprint para a criação e gestão de recursos na AWS. 
+
+![image](https://github.com/user-attachments/assets/8bf53afa-896d-4a57-9c5f-0c100de094af)
 
 ### Estrutura de um Template CloudFormation
 
