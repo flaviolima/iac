@@ -36,5 +36,5 @@ A IaC é essencial para DevOps, pois automatiza tarefas de infraestrutura, integ
 - Escalar recursos de infraestrutura automaticamente com base na demanda.
 
 
-Fonte: https://aws.amazon.com/pt/what-is/iac/
+Referências: https://aws.amazon.com/pt/what-is/iac/
 
