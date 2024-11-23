@@ -10,7 +10,7 @@ Após acessar o Cloudformation, você seguirá o mesmo passo a passo de provisio
 E irá realizar as seguintes tarefas:
 
 ## 1. Provisionar um Bucket S3
-1.1 Provisionar um novo Bucket S3, com o nome "bucket-<SEUNOME>", exemplo? ``bucket-flavio``
+1.1 Provisionar um novo Bucket S3, com o nome "bucket-<SEUNOME>", exemplo: ``bucket-flavio``
 
 1.2 Neste passo você poderá utilizar o ``AWS Infrastructure Composer`` quanto o ``IaC Generator``
   
