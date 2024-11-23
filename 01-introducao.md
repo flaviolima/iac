@@ -6,6 +6,9 @@ O gerenciamento manual da infraestrutura é demorado e propenso a erros, especia
 
 As organizações usam a infraestrutura como código para **controlar custos, reduzir riscos e responder com rapidez a novas oportunidades de negócios**.
 
+![|200](https://github.com/user-attachments/assets/6c1a7c39-68d0-4933-b153-03782825912f)
+
+
 ## Quais são os beneficios da IaC?
 A automação é uma meta fundamental em qualquer ambiente de computação. A infraestrutura como código (IaC) é usada para automação de infraestrutura para criar ambientes. 
 O uso mais comum da IaC é no desenvolvimento de software para criar, testar e implantar aplicações.
